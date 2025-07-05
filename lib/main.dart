@@ -4,8 +4,8 @@ import 'package:pv_solar/core/dependencies/service_locator.dart';
 import 'package:pv_solar/core/errors/error_view.dart';
 
 void main() {
-  WidgetsFlutterBinding.ensureInitialized();
-  setUpEnvironment();
+  // WidgetsFlutterBinding.ensureInitialized();
+  // setUpEnvironment();
   runApp(const MyApp());
 }
 
